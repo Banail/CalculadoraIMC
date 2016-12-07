@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora de IMC</string>
+
+    <string name="altura">Altura:</string>
+    <string name="peso">Peso:</string>
+    <string name="btn_calcular">CALCULAR</string>
+    <string name="imc">Su IMC es:</string>
+</resources>
